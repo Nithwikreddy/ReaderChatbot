@@ -1,0 +1,15 @@
+=== APEX SNEAKERS INTERNAL DOCS ===
+
+1. WIFI NETWORK:
+   - SSID: Apex_Guest_WiFi
+   - Password: correct_horse_battery_staple_2026
+
+2. OFFICE MASCOT:
+   - We have a golden retriever mascot named "Barkley". He spends most of his time in the design department on the 3rd floor.
+
+3. REFUND POLICY:
+   - Customers can return any shoes within 45 days of purchase for a full refund.
+   - The shoes must be returned in their original packaging.
+
+4. SECRET PROJECT:
+   - Project "AeroStride" is our upcoming self-lacing running shoe scheduled for release in November 2026.
